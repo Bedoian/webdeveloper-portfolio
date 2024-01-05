@@ -1,0 +1,19 @@
+/* nav related fiel */
+body{font-family: 'Open Sans', sans-serif;}
+nav{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+h3{
+    color: var(--Dark-01, #181818);
+font-family: Open Sans;
+font-size: 45px;
+font-weight: 800;
+}
+nav ul{display: flex;text-decoration: none;align-items: center;}
+nav li{ list-style:  none;margin-right: 50px;}
+nav a{text-decoration: none;
+color: #474747;}
+#button{background-color:#FD6E0A ;border:none;color: white;
+font-size: larger;padding: 15px 35px;}
